@@ -11,3 +11,5 @@
 ## Contributing
 
 ## License
+
+## Regulation
