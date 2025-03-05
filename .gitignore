@@ -1,4 +1,8 @@
 <<<<<<< HEAD
 .DS_Store
 *.icloud
+<<<<<<< HEAD
 
+=======
+*.icloud
+>>>>>>> 28bc549 (Ignore .icloud files)
